@@ -8,9 +8,9 @@
 El repositorio contiene tres carpetas:<br>
 <dl>
   <dt>archivos gv</dt>
-  <dd>Carpeta donde se encuentran los archivos gv generados por el programa, 3 por cada modelo; 30, 100 y 500 nodos respectivamente.</dd>
+  <dd>Carpeta donde se encuentran los archivos gv generados por el programa, 3 por cada modelo; 30, 100 y 500 nodos respectivamente. También se encuentran los archivos de grafos calculados. Tres por cada grafo generado (un BFS y dos DFS).</dd>
   <dt>img</dt>
-  <dd>Carpeta donde se encuentran imágenes creadas con los grafos generados, 72 en total. Se utilizo Gephi.</dd>
+  <dd>Carpeta donde se encuentran imágenes creadas con los grafos generados (generados y calculados), 72 en total. Se utilizo Gephi.</dd>
   <dt>src</dt>
   <dd>Carpeta que contiene el código fuente (archivos python).</dd>
 </dl>
